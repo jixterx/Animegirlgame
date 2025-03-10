@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37d2e824c6ec1764d8048f844f64885d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathScreen: {fileID: 940725574544271657, guid: 08696e6b192a38741b7ce7519fff19e2, type: 3}
+  - deathText: {fileID: 3179137911874864930, guid: 1252fb76849ed6743b00b9b49902763d, type: 3}
+  - damageText: {fileID: 2605246414780182717, guid: da127a16a79307c4fb10c56e3dda683d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
